@@ -1,5 +1,7 @@
 {
   "dependencies": {
     "cubeportfolio": "^1.0.0"
-  }
+  },
+  "name": "cubeportfolio",
+  "version": "1.0.0"
 }
